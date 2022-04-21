@@ -1,0 +1,70 @@
+h1 {
+    color: teal;
+}
+
+p strong{
+    color: red;
+}
+
+.destacado {
+    color: orange;
+}
+
+h2 {
+    color: blue;
+}
+
+p a {
+    color: red;
+}
+
+p * em {
+    color: blue;
+}
+
+p span {
+    color: fuchsia;
+}
+
+caption {
+    color: blue;
+}
+
+thead {
+    color: orange;
+}
+
+tfoot {
+    color: red;
+}
+tr .especial {
+    color: orange;
+}
+
+tr td {
+    color: green;
+}
+
+td strong {
+    color: orange;
+}
+
+[scope="row"] {
+    color: red;
+}
+
+#adicional {
+    color: olive;
+}
+
+#adicional span {
+    color: olive;
+}
+
+#adicional #especial {
+    color: fuchsia;
+}
+
+#adicional * a {
+    color: green;
+}
