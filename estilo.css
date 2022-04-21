@@ -23,7 +23,7 @@ p * em {
 }
 
 p span {
-    color: fuchsia;
+    color: purple;
 }
 
 caption {
@@ -68,3 +68,12 @@ td strong {
 #adicional * a {
     color: green;
 }
+
+/*
+th, td {
+    border: 1px solid black;
+    padding: 4px;
+}
+*/
+
+
