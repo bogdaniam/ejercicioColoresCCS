@@ -6,11 +6,11 @@ p strong{
     color: red;
 }
 
-.destacado {
+.destacado, thead {
     color: orange;
 }
 
-h2 {
+h2, caption {
     color: blue;
 }
 
@@ -24,14 +24,6 @@ p * em {
 
 p span {
     color: purple;
-}
-
-caption {
-    color: blue;
-}
-
-thead {
-    color: orange;
 }
 
 tfoot {
@@ -72,8 +64,8 @@ td strong {
 
 table {
     border-collapse: collapse;
-    border: 1px solid black;
   }
+
   th, td {
     border: 1px solid black;
     padding: 3px;
